@@ -1,0 +1,2 @@
+-- FOOD-101:
+CREATE SCHEMA IF NOT EXISTS melnikov_food;
